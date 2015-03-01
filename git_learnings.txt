@@ -17,3 +17,4 @@ commands
 Stuff:
 
 git tracks content.
+nothing i srunning in the background ... No daemon nothing ... Only when u say git status it checks the directory
