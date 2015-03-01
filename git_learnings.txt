@@ -1,0 +1,19 @@
+commands 
+
+1) git status :
+
+
+2) git add : only stages the file to participate in the next transactional stage.
+
+
+3) git --version
+
+
+4) exit
+
+
+5) git commit :
+
+Stuff:
+
+git tracks content.
